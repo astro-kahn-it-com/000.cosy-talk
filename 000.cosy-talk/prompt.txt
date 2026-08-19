@@ -1,0 +1,11 @@
+[INSTRUCTION]
+Speak with a serious, contemplative, and slightly gruff tone, like a hard-boiled detective recounting a case in a dimly lit room.
+
+[REFERENCE_AUDIO]
+voices/detective.wav
+
+[REFERENCE_TRANSCRIPT]
+The rain didn't stop for three days. It just washed the grime from the streets, straight into the gutters.
+
+[DIALOGUE]
+[sigh] I knew the moment she walked into my office that this wasn't going to be a simple missing persons case. The look in her eyes... it told a story of its own.
