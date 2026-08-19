@@ -1,0 +1,11 @@
+[INSTRUCTION]
+Speak with a confident and slightly mysterious tone.
+
+[REFERENCE_AUDIO]
+voices/detective.wav
+
+[REFERENCE_TRANSCRIPT]
+I knew the answer before he even walked in the door.
+
+[DIALOGUE]
+[laughter] Well, if you really want to know the truth... [sigh] it's complicated.
