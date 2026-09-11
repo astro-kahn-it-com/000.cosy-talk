@@ -1,11 +1,11 @@
 [INSTRUCTION]
-Speak with a confident and slightly mysterious tone.
+Speak with breathless urgency in a raspy, strained tone, catching your breath with heavy vocal tension.
 
 [REFERENCE_AUDIO]
-voices/detective.wav
+voices/sample.wav
 
 [REFERENCE_TRANSCRIPT]
-I knew the answer before he even walked in the door.
+My friends, welcome. The mark is here. Iran is set to be the first country to roll out a biometric digital ID.
 
 [DIALOGUE]
-[laughter] Well, if you really want to know the truth... [sigh] it's complicated.
+<|en|>[breath] The containment seals are failing. [gasp] We have less than thirty seconds before the reactor vents!

@@ -1,1 +1,36 @@
+# Nested Git repository
+CosyVoice/.git/
+CosyVoice/third_party/
+
+# Python binaries, runtimes & ComfyUI portable
+ComfyUI_windows_portable/
+python_embeded/
 __pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# Model weights, checkouts & checkpoints
+models/
+pretrained_models/
+cache/
+*.safetensors
+*.pt
+*.bin
+*.onnx
+*.pth
+
+# Audio outputs & logs
+output/
+outputs/
+*.wav
+*.mp3
+*.flac
+*.log
+
+# Windows metadata & editor settings
+Thumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.vscode/
+.idea/
